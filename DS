@@ -1,4 +1,4 @@
-Aim:Practical of 
+Aim:Practical of principal component analysis
 
 > data("iris")
 > head(iris)
